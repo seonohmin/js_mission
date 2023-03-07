@@ -1,0 +1,6 @@
+{
+    "git.ignoreLimitWarning": true,
+    "eslint.notebooks.rules.customizations": [],
+    "eslint.codeActionsOnSave.rules": null,
+    "eslint.options": {}
+}
